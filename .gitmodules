@@ -1,0 +1,4 @@
+[submodule "references/docker-iot-dashboard"]
+	path = references/docker-iot-dashboard
+	url = https://github.com/mcci-catena/docker-iot-dashboard.git
+	branch = master
