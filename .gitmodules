@@ -2,3 +2,7 @@
 	path = references/docker-iot-dashboard
 	url = https://github.com/mcci-catena/docker-iot-dashboard.git
 	branch = master
+[submodule "references/bitnami"]
+	path = references/bitnami
+	url = https://github.com/bitnami/containers.git
+	branch = main
