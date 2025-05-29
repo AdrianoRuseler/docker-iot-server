@@ -3,7 +3,7 @@
 ## Telegraf InfluxDB Grafana Stack
 - https://github.com/huntabyte/tig-stack
 ```bash
-git submodule add -b latest https://github.com/huntabyte/tig-stack.git references/tig-stack
+git submodule add -b main https://github.com/huntabyte/tig-stack.git references/tig-stack
 ```
 - https://github.com/matisku/tig-stack
 ```bash
