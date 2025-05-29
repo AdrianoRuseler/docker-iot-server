@@ -1,5 +1,11 @@
 # docker-iot-server
 
+## Telegraf InfluxDB Grafana Stack
+- https://github.com/matisku/tig-stack
+```bash
+git submodule add -b master https://github.com/matisku/tig-stack.git references/tig-stack
+```
+
 ## References
 - https://github.com/mcci-catena/docker-iot-dashboard
 ```bash
