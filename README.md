@@ -1,6 +1,12 @@
 # docker-iot-server
 
 ## Telegraf InfluxDB Grafana Stack
+- https://www.youtube.com/watch?v=NLdJm2N7ctc
+- https://github.com/InfluxCommunity/TIG-Stack-using-InfluxDB-3-Core
+```bash
+git submodule add -b main https://github.com/InfluxCommunity/TIG-Stack-using-InfluxDB-3-Core.git references/TIG-Stack-using-InfluxDB-3-Core
+```
+
 - https://github.com/huntabyte/tig-stack
 ```bash
 git submodule add -b main https://github.com/huntabyte/tig-stack.git references/tig-stack
